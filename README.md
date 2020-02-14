@@ -1,8 +1,10 @@
 # JavaScript-Basics2-CW
-
+### Check out my commets (!!) in your JS file.
+#### Score : 3/5
 ### Question 1
 Create two variables. One should equal “My name is: “ and the other should equal your name. Print the two variables in one print message.
 
+#### Looks like you didn't do this one or redid number 4 OVER this problem. I gotta be able to run both.
 ### Question 2
 Ask the user “What is your balance”. Make sure to save that answer in a variable balance. Subtract 10 from that balance. Print "You lost $10. Your new balance is: [THE BALANCE]".
 
